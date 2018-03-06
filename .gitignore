@@ -5,3 +5,9 @@
 data
 fasttext
 result
+*.so
+*.txt
+*.dat
+*.ftz
+*.bin
+*.egg*
